@@ -4,7 +4,7 @@
     <img src="mahendar.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </main>
-<h1 align="center">Hi 👋, I'm MUMTAJ ALI</h1>
+<h1 align="center">Hi 👋, I'm MAHENDAR KUMAR</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaj-a&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaj-a" /> </p>
